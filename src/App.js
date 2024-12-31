@@ -34,7 +34,7 @@ function App() {
           <Route path=":id" element={<PostPage />} />
         </Route>
         <Route path="/edit/:id" element={<EditPost />}/>
-        <Route Path="/about" element={<About/>} /> 
+        <Route path="/about" element={<About />} /> 
 
         {/* About Page 
         <Route path="about" element={<About />} />
