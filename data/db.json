@@ -25,10 +25,22 @@
       "body": "NEW POST - Edited"
     },
     {
-      "id": 5,
+      "id": "5",
       "title": "Post No: 5",
       "date": "December 27, 2024 6:27:00 PM",
       "body": "POST 5"
+    },
+    {
+      "id": "6",
+      "title": "Post No : 6 (newly Edited)",
+      "date": "December 31, 2024 12:41:35 PM",
+      "body": "New Post 6"
+    },
+    {
+      "id": "61",
+      "title": "Post No : 7 (Edited)",
+      "date": "December 31, 2024 12:42:16 PM",
+      "body": "New Post 7 "
     }
   ]
 }
