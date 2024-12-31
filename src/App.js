@@ -9,6 +9,7 @@ import Footer from './Footer';
 import EditPost from './EditPost';
 import { Routes,Route } from 'react-router-dom';
 import { DataProvider } from './context/DataContext';
+import About from './About';
 
 function App() {
   return (
@@ -33,6 +34,7 @@ function App() {
           <Route path=":id" element={<PostPage />} />
         </Route>
         <Route path="/edit/:id" element={<EditPost />}/>
+        <Route Path="/about" element={<About/>} /> 
 
         {/* About Page 
         <Route path="about" element={<About />} />
